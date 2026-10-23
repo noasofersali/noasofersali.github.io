@@ -73,3 +73,9 @@ li {
 .contact a:hover {
   text-decoration: underline;
 }
+.subtitle {
+  font-style: italic;
+  color: #6b8bad;
+  font-size: 1.2em;
+  margin-top: -5px;
+}
