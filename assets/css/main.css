@@ -35,3 +35,16 @@ ul {
 li {
   margin-bottom: 6px;
 }
+.side-photo {
+  float: right;
+  width: 140px;
+  height: 140px;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 0 0 15px 20px;
+  border: 3px solid #1f4e79;
+}
+
+.container {
+  display: flow-root;
+}
