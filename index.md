@@ -11,7 +11,7 @@ title: Noa Sofer Sali
 ## About Me
 
 I'm a physician. I earned my MD and MPH from the Hebrew University and completed my internship at Soroka Medical Center.
-I currently serve in the IDF Medical Corps and started my MSc in Life Sciences at the Weizmann Institute of Science
+I currently serve in the IDF Medical Corps and started my MSc in Life Sciences at the [Weizmann Institute of Science](https://www.weizmann.ac.il).
 
 ## Research Interests
 
