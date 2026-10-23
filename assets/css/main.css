@@ -48,3 +48,28 @@ li {
 .container {
   display: flow-root;
 }
+
+.contact {
+  clear: both;
+  border-top: 1px solid #1f4e79;
+  margin-top: 40px;
+  padding-top: 15px;
+}
+
+.contact p {
+  margin: 6px 0;
+}
+
+.contact i {
+  color: #1f4e79;
+  width: 22px;
+}
+
+.contact a {
+  color: #1f4e79;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
