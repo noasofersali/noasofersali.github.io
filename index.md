@@ -2,10 +2,12 @@
 layout: default
 title: Noa Sofer Sali
 ---
+<div class="page-header" markdown="1">
+
+<img src="assets/css/me.jpg" alt="Noa Sofer Sali" class="profile-photo">
 
 # Noa Sofer Sali, MD
 <p class="subtitle">Welcome to My Website</p>
-<img src="assets/css/me.jpg" class="side-photo">
 
 ## About Me
 
