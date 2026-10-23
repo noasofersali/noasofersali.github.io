@@ -19,3 +19,5 @@ I am interested in understanding how brain injury affects cognition and daily fu
 <img src="assets/css/tromso.jpg.jpg" alt="Tromso, our dog" class="side-photo">
 When I’m not at work, I enjoy reading, travelling with my husband, and spending time with our dog, Tromso.
 
+
+Get in Touch noa.sofer-sali@weizmann.ac.il
