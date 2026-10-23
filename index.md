@@ -7,7 +7,12 @@ title: Noa Sofer Sali
 <img src="assets/css/me.jpg" alt="Noa Sofer Sali" class="profile-photo">
 
 # Noa Sofer Sali, MD
+
 <p class="subtitle">Welcome to My Website</p>
+
+</div>
+
+## About Me
 
 ## About Me
 
