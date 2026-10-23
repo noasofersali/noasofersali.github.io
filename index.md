@@ -16,6 +16,6 @@ My interest in neurology and neuroscience, particularly neurotrauma, grew from m
 I am interested in understanding how brain injury affects cognition and daily functioning, and how advances in neuroscience and neurotechnology can improve treatment and recovery.
 
 ## Outside of Work
-<img src="assets/tromso.jpg.jpg" alt="Tromso, our dog" class="side-photo">
+<img src="assets/css/tromso.jpg.jpg" alt="Tromso, our dog" class="side-photo">
 When I’m not at work, I enjoy reading, travelling with my husband, and spending time with our dog, Tromso.
 
