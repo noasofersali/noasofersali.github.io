@@ -80,3 +80,12 @@ li {
   border-bottom: 3px solid #1f4e79;
   padding-bottom: 10px;
 }
+.profile-photo {
+  float: right;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  border-radius: 0;
+  margin: 0 0 10px 20px;
+  border: 1px solid #1f4e79;
+}
