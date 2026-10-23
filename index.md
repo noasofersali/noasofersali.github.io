@@ -5,6 +5,7 @@ title: Noa Sofer Sali
 
 # Noa Sofer Sali, MD
 <p class="subtitle">Welcome to My Website</p>
+<img src="assets/css/me.jpg" class="side-photo">
 
 ## About Me
 
