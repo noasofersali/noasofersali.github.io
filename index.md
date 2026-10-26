@@ -26,4 +26,4 @@ Through this course, I aim to establish a foundation in programming and develop 
 <img src="assets/css/tromso.jpg.jpg" alt="Tromso, our dog" class="side-photo">
 When I’m not at work, I enjoy reading, travelling with my husband, and spending time with our dog, Tromso.
 
-
+## Nice to meet you
